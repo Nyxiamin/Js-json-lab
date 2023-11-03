@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "title": "Nature",
+      "description": "Beautiful landscape",
+      "image": "https://source.unsplash.com/1"
+    },
+    {
+      "id": 2,
+      "title": "Animals",
+      "description": "Adorable pets",
+      "image": "https://source.unsplash.com/2"
+    },
+    {
+      "id": 3,
+      "title": "Technology",
+      "description": "Innovative gadgets",
+      "image": "https://source.unsplash.com/3"
+    },
+    {
+      "id": 4,
+      "title": "Food",
+      "description": "Delicious cuisine",
+      "image": "https://source.unsplash.com/4"
+    },
+    {
+      "id": 5,
+      "title": "Travel",
+      "description": "Exciting destinations",
+      "image": "https://source.unsplash.com/5"
+    },
+    {
+      "id": 6,
+      "title": "Art",
+      "description": "Creative masterpieces",
+      "image": "https://source.unsplash.com/6"
+    }
+  ]
