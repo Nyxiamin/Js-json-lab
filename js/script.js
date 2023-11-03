@@ -1,5 +1,5 @@
 // Fetch data from the JSON file
-fetch('data.json')
+fetch('https://raw.githubusercontent.com/nyxiamin/js-json-lab/main/data.json')
   .then(response => response.json())
   .then(data => displayData(data))
   .catch(error => console.error('Error fetching data:', error));

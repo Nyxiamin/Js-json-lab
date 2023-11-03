@@ -3,36 +3,36 @@
       "id": 1,
       "title": "Nature",
       "description": "Beautiful landscape",
-      "image": "https://source.unsplash.com/1"
+      "image": "https://www.usnews.com/dims4/USNEWS/62f0db7/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F0a%2F3b%2Fa66cd64d424ca5945e01361adbb3%2Figuazu-falls-stock.jpg"
     },
     {
       "id": 2,
       "title": "Animals",
       "description": "Adorable pets",
-      "image": "https://source.unsplash.com/2"
+      "image": "https://i.ytimg.com/vi/hu1ND_k-QeI/maxresdefault.jpg"
     },
     {
       "id": 3,
       "title": "Technology",
       "description": "Innovative gadgets",
-      "image": "https://source.unsplash.com/3"
+      "image": "https://img.etimg.com/thumb/msid-48371322,width-640,resizemode-4/tech-life/five-innovative-gadgets-that-will-never-be-mainstream.jpg"
     },
     {
       "id": 4,
       "title": "Food",
       "description": "Delicious cuisine",
-      "image": "https://source.unsplash.com/4"
+      "image": "https://blog.turkishairlines.com/wp-content/uploads/2020/02/Turkish-cuisine-1024x680.jpg"
     },
     {
       "id": 5,
       "title": "Travel",
       "description": "Exciting destinations",
-      "image": "https://source.unsplash.com/5"
+      "image": "https://fullsuitcase.com/wp-content/uploads/2020/10/Amazing-destinations-from-all-over-the-world.jpg"
     },
     {
       "id": 6,
       "title": "Art",
       "description": "Creative masterpieces",
-      "image": "https://source.unsplash.com/6"
+      "image": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/330827708/original/42afcd7bda910960f859c55689dc29e64573b738/do-artificial-intelligence-masterpieces-creative-ai-art.jpeg"
     }
   ]
